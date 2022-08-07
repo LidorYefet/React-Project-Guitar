@@ -1,0 +1,14 @@
+.amout-div{
+    display: flex;
+    justify-content: space-between;
+    align-items :center;
+    flex-direction: row;
+    
+    
+}
+.numbergrow{ 
+    font-size: 200%;
+    border: 6px  solid black;
+    border-radius: 20%;
+    padding: 3%;
+}

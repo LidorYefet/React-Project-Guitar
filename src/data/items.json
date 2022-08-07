@@ -1,0 +1,101 @@
+ [
+      {
+        "id": 1,
+        "name": "C-40M",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/c40m_a_1001_f(6).webp",
+        "category": "Classic",
+        "manufacturers": "Yamaha",
+        "price": 400
+      },
+      {
+        "id": 2,
+        "name": "Elsa 3/4",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/2360-35-207.webp",
+        "category": "Classic",
+        "manufacturers": "Admira",
+        "price": 599
+      },
+      {
+        "id": 3,
+        "name": "ESC-110",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/preview(22).webp",
+        "category": "Classic",
+        "manufacturers": "Fender",
+        "price": 929
+      },
+      {
+        "id": 4,
+        "name": "JR2",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/JR2.webp",
+        "category": "Acoustic",
+        "manufacturers": "Yamaha",
+        "price": 399
+      },
+      {
+        "id": 5,
+        "name": "Paramount PM-1 Standard Dreadnought",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/2414-36-306.png",
+        "category": "Acoustic",
+        "manufacturers": "Fender",
+        "price": 850
+      },
+      {
+        "id": 6,
+        "name": "Academy 10e",
+        "image":"https://www.kley-zemer.co.il/Media/Uploads/Taylor_Academy_10e.png",
+        "category": "Acoustic",
+        "manufacturers": "Taylor",
+        "price": 530
+      },
+      {
+        "id": 7,
+        "name": "GRGR221PA-AQB",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/2361-57-835(1).webp",
+        "category": "Electric",
+        "manufacturers": "Ibanez",
+        "price": 1200
+      },
+      {
+        "id": 8,
+        "name": "Revstar RS320 - Ice Blue",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/2300-57-705.webp",
+        "category": "Electric",
+        "manufacturers": "Yamaha",
+        "price": 1000
+      },
+      {
+        "id": 9,
+        "name": "Stratocaster Player HSS PF Red",
+        "image":  "https://www.kley-zemer.co.il/Media/Uploads/Fender_Stratocaster_Player_HSS_PF_SRD_FRONT.webp",
+        "category": "Electric",
+        "manufacturers": "Fender",
+        "price": 3000
+      },
+      {
+        "id": 10,
+        "name": "GSR200SM",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/2361-57-832.webp",
+        "category": "Bass",
+        "manufacturers": "Ibanez",
+        "price": 1500
+      },
+      {
+        "id": 11,
+        "name": "Player Precision",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/FENDER_Player_Precision_Bass_FRONT(1).webp",
+        "category": "Bass",
+        "manufacturers": "Fender",
+        "price": 2900
+      },
+      {
+        "id": 12,
+        "name": "TRBX304",
+        "image": "https://www.kley-zemer.co.il/Media/Uploads/trbx304_car_f(5).webp",
+        "category": "Bass",
+        "manufacturers": "Yamaha",
+        "price": 1300
+      }
+    ]
+  
+
+  
